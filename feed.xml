@@ -17,7 +17,7 @@
         <link href="https://joker85pd.github.io/publii1/aa.html"/>
         <id>https://joker85pd.github.io/publii1/aa.html</id>
 
-        <updated>2020-09-01T12:39:36+02:00</updated>
+        <updated>2020-09-01T12:41:24+02:00</updated>
             <summary>
                 <![CDATA[
                     extends ../layouts/default-layout.pugblock content +header(‘index’) .index.tingle-content-wrapper(itemscope itemtype=’https://schema.org/WebPage&#39;) section.hero-index.wrapper .hero-index-content h1.hero-title.times(itemprop=’tagLine title’) span.typed span.typed-2 br | Worry less. .before .hero-about(itemprop=’description’) The self-publishing platform for indie success ul li Reach global markets like Google Play and China li Maximize your earnings and keep 100% of your royalties li&hellip;
